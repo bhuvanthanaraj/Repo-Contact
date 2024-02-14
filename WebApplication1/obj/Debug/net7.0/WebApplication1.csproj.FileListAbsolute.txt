@@ -1,0 +1,154 @@
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Netfullstack project\WebAPI\pratics api\WebApplication1\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CopyComplete
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+E:\.Netfullstack project\WebAPI\Contact_API\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
